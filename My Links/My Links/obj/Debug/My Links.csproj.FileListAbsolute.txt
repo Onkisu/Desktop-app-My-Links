@@ -1,0 +1,31 @@
+C:\Users\rakha\source\repos\My Links\My Links\bin\Debug\My Links.exe.config
+C:\Users\rakha\source\repos\My Links\My Links\bin\Debug\My Links.exe
+C:\Users\rakha\source\repos\My Links\My Links\bin\Debug\My Links.pdb
+C:\Users\rakha\source\repos\My Links\My Links\bin\Debug\Guna.UI2.dll
+C:\Users\rakha\source\repos\My Links\My Links\obj\Debug\My_Links.Form1.resources
+C:\Users\rakha\source\repos\My Links\My Links\obj\Debug\My_Links.Properties.Resources.resources
+C:\Users\rakha\source\repos\My Links\My Links\obj\Debug\My Links.csproj.GenerateResource.cache
+C:\Users\rakha\source\repos\My Links\My Links\obj\Debug\My Links.csproj.CoreCompileInputs.cache
+C:\Users\rakha\source\repos\My Links\My Links\obj\Debug\My Links.csproj.CopyComplete
+C:\Users\rakha\source\repos\My Links\My Links\obj\Debug\My Links.exe
+C:\Users\rakha\source\repos\My Links\My Links\obj\Debug\My Links.pdb
+C:\Users\rakha\source\repos\My Links\My Links\obj\Debug\My_Links.Main.resources
+D:\My Links\My Links\bin\Debug\My Links.exe.config
+D:\My Links\My Links\bin\Debug\My Links.exe
+D:\My Links\My Links\bin\Debug\My Links.pdb
+D:\My Links\My Links\bin\Debug\Guna.UI2.dll
+D:\My Links\My Links\obj\Debug\My Links.csproj.AssemblyReference.cache
+D:\My Links\My Links\obj\Debug\My_Links.Form1.resources
+D:\My Links\My Links\obj\Debug\My_Links.Main.resources
+D:\My Links\My Links\obj\Debug\My_Links.Properties.Resources.resources
+D:\My Links\My Links\obj\Debug\My Links.csproj.GenerateResource.cache
+D:\My Links\My Links\obj\Debug\My Links.csproj.CoreCompileInputs.cache
+D:\My Links\My Links\obj\Debug\My Links.csproj.CopyComplete
+D:\My Links\My Links\obj\Debug\My Links.exe
+D:\My Links\My Links\obj\Debug\My Links.pdb
+C:\Users\rakha\source\repos\My Links\My Links\obj\Debug\My_Links.splash.resources
+C:\Users\rakha\source\repos\My Links\My Links\obj\Debug\My Links.csproj.AssemblyReference.cache
+C:\Users\rakha\source\repos\My Links\My Links\obj\Debug\My_Links.about.resources
+C:\Users\rakha\source\repos\My Links\My Links\bin\Debug\MyLink.mdf
+C:\Users\rakha\source\repos\My Links\My Links\bin\Debug\MyLink_log.ldf
+C:\Users\rakha\source\repos\My Links\My Links\obj\Debug\My_Links.contact.resources
